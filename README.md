@@ -1,2 +1,2 @@
 # LCPA_project_Hopfield
-we can implement the modern hopfield network at the end / comment more the physical aspects / make more examples
+LCP A course's Project on Hopfield Model NN implementation and applications: storing, corrupting and retrieving patterns. Comparison with the Modern HM and application on the MNIST dataset.
