@@ -32,3 +32,6 @@ Thumbs.db
 # Misc
 *.log
 .cache/
+
+# MNIST download folder used by the plot_*.py utility scripts
+data/
